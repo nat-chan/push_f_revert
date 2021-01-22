@@ -1,1 +1,1 @@
-# push_f_revert
+# push_f_revertプライベートリポジトリにしてから追記してみる
